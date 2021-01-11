@@ -12,14 +12,18 @@
 # wget https://wordpress.org/latest.tar.gz
 # tar xf latest.tar.gz -C /var/www/html
 # systemctl status httpd
-
 # systemctl start httpd
-# systemctl enable httpd
-# yum install mysql -y
+# systemctl enable httpd 
 
 
 
 
 
-Now launch browser, enter ip and install wordpress
-you get your wordpress site!!!
+
+
+
+
+
+
+
+
